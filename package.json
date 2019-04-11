@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-spa",
+  "version": "1.0.0",
+  "description": "AngularJs Demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvin-m/angularjs-spa.git"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "Calvin Mai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvin-m/angularjs-spa/issues"
+  },
+  "homepage": "https://github.com/calvin-m/angularjs-spa#readme"
+}
